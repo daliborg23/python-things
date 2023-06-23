@@ -1,0 +1,10 @@
+body {
+    background: grey url("images/_89716241_thinkstockphotos-523060154.jpg") no-repeat;
+    background-position: 50% -50%;
+    /* background-color: gray; */
+
+}
+
+li a {
+    color: green;
+}
